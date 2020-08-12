@@ -79,7 +79,7 @@ Java版Wanandroid客户端，主体使用MVPArms，利用 MVP + RxJava + Retrofi
 - 第一版，基本包含[wanandroid开放API](https://wanandroid.com/blog/show/2)所有功能
 
 
-课下搞这个吧8.13-8.23
-https://www.wanandroid.com/blog/show/2
+-课下搞这个吧8.13-8.23
+-https://www.wanandroid.com/blog/show/2
 
 
